@@ -81,7 +81,7 @@ This series will include the basic necessities to learn Unreal Engine.
   ### Step 8
   
   
-  <p8> Select Your default pawn using the panel on the right hand side. select "bp_MyCharacter" This is the blueprint class we created in "Step 6" This class is the "Blueprint" Off the "MyCharacter" C++ file. 
+  <p8> Select Your default pawn using the panel on the right hand side. select "bp_MyCharacter" This is the blueprint class we created in "Step 6" This class is the "Blueprint" Off the "MyCharacter" C++ file.  </p8>
 
  
  
@@ -93,12 +93,12 @@ This series will include the basic necessities to learn Unreal Engine.
    ### Step 9
    
    
-   <p9> Go to the Top of the Editor, select the "Edit" Button on the left hand side and select "Project Settings" Now go to the "Map & Modes" Tab and select the game mode "bp_ThirdPersonCPPGameMode". </p9>
+   <p9> Go to the Top of the Editor, select the "Edit" Button on the left hand side and select "Project Settings" Now go to the "Map & Modes" Tab and select the game mode "bp_ThirdPersonCPPGameMode" </p9>
     
    
    ### Step 10
     
-    <p> Go to the Left panel in your "bp_MyCharacter" blueprint class. Select your "Skeletal mesh" As desired and an animation Blueprint </p>
+    <p20> Go to the Left panel in your "bp_MyCharacter" blueprint class. Select your "Skeletal mesh" As desired and an animation Blueprint </p>
 
  
  
