@@ -98,7 +98,7 @@ This series will include the basic necessities to learn Unreal Engine.
    
    ### Step 10
     
-    <p20> Go to the Left panel in your "bp_MyCharacter" blueprint class. Select your "Skeletal mesh" As desired and an animation Blueprint </p>
+<p20> Go to the Left panel in your "bp_MyCharacter" blueprint class. Select your "Skeletal mesh" As desired and an animation Blueprint </p20>
 
  
  
